@@ -30,13 +30,16 @@ src/
 └── index.js
 ## 🧪 How to Run Locally
 
- 1.Clone this repo
+ 1. Clone this repo
    
    git clone https://github.com/rishita1903/society-visitor-form.git
+   
    cd society-visitor-form
 
-2.Install dependencies
+2. Install dependencies
+
 npm install
 
-3.Run the app
+3. Run the app
+
 npm start 
